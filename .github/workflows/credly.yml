@@ -1,10 +1,19 @@
-name: Push Test
-on: [push,  workflow_dispatch]
+
+name: Generate snake game
+
+on:
+  schedule:
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
 jobs:
-  badges:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-    - name: Get Credly Badges
-    - uses: michaelcontento/credly-import-action@v1
-      with:
-        name: alberto-roura
+      - uses: Sutil/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake2.svg
+          snake_color: 'blue'
