@@ -1,7 +1,5 @@
 <h1 align="center">Embedded | DevOps | Cloud IT | Edge Computing | Internal Platforms | Automations | Project Management | Consultancy</h1>
 
----
-
 <h2 align="left"> My Background ☕️ </h2>
 
 - 🌍 **Global-Class Engineer**: Trusted by companies like Texas Instruments and Hashdin for delivering exceptional engineering solutions.
@@ -12,8 +10,8 @@
 - 📈 **Business Aligned**: Combined technical expertise with cost management, time-to-market strategies, and a relentless commitment to delivering value.
 - 📅 **Product Development Management**: Successfully coordinated partners and freelancers across up to 12-hour time zones to deliver IoT products from concept to market as a tech manager in a startup.
  
-<h2 align="left">⚙️ DevOps & Platform </h2>
-  <b>Cloud Providers</b>
+<h2 align="left">⚙️ DevOps & Platform 🔧</h2>
+  <b>☁️ Cloud Providers</b>
   <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
@@ -24,7 +22,7 @@
 </p>
 
 <p align="left">
-  <b>Tools Ecosystem</b>
+  <b>Ecosystem</b>
   <br>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
@@ -50,8 +48,6 @@
   </a>
 
 </p>
-
----
 
 <h2 align="left">💻 Development</h2>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -82,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
   </a>
 
-<h2 align="left"> Other Skills</h2>
+<h2 align="left"> 🍨 Other Skills</h2>
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
     <img src="https://dev-docs.kicad.org/img/kicad_logo_small.png" alt="KiCAD" width="40" height="40"/>
   </a>
