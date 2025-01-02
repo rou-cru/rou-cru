@@ -1,7 +1,6 @@
 <h1 align="center">Embedded | DevOps | Cloud IT | Edge Computing | Internal Platforms | Automations | Project Management | Consultancy</h1>
-<p align="center">
-  <i>Passionate about building scalable platforms, automating deployments, and innovating systems from Embedded to Cloud.</i>
-</p>
+
+---
 
 <h2 align="left"> My Background ☕️ </h2>
 
