@@ -2,10 +2,6 @@
 <p align="center">
   <i>Passionate about building scalable platforms, automating deployments, and innovating systems from Embedded to Cloud.</i>
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rou-cru&label=Profile%20views&color=0e75b6&style=flat" alt="rou-cru" />
-</p>
-
 ---
 
 <h2 align="left">⚙️ DevOps, Cloud & Platforms </h2>
