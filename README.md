@@ -18,8 +18,7 @@
 - 📈 **Business Aligned**: Combined technical expertise with cost management, time-to-market strategies, and a relentless commitment to delivering value.
 - 📅 **Product Development Management**: Successfully coordinated partners and freelancers across up to 12-hour time zones to deliver IoT products from concept to market as a tech manager in a startup.
  
-<h2 align="left">⚙️ DevOps, Cloud & Platforms </h2>
-<p align="left">
+<h2 align="left">⚙️ DevOps & Platform </h2>
   <b>Cloud Providers</b>
   <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -31,7 +30,7 @@
 </p>
 
 <p align="left">
-  <b>DevOps Ecosystem</b>
+  <b>Tools Ecosystem</b>
   <br>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
@@ -42,11 +41,7 @@
   <a href="https://helm.sh/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/>
   </a>
-</p>
 
-<p align="left">
-  <b>CI/CD Pipelines & Automations</b>
-  <br>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
@@ -56,12 +51,15 @@
   <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="ArgoCD" width="40" height="40"/>
   </a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
+  </a>
+
 </p>
 
 ---
 
-<h2 align="left">🌟 Embedded Development</h2>
-<p align="left">
+<h2 align="left">💻 Development</h2>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
@@ -80,25 +78,17 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<h2 align="left">💻 Other Skills</h2>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+  </a>
+
+<h2 align="left"> Other Skills</h2>
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
     <img src="https://dev-docs.kicad.org/img/kicad_logo_small.png" alt="KiCAD" width="40" height="40"/>
   </a>
-</p>
