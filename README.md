@@ -2,6 +2,7 @@
 <p align="center">
   <i>Passionate about building scalable platforms, automating deployments, and innovating systems from Embedded to Cloud.</i>
 </p>
+
 ---
 
 <h2 align="left">⚙️ DevOps, Cloud & Platforms </h2>
