@@ -3,7 +3,16 @@
   <i>Passionate about building scalable platforms, automating deployments, and innovating systems from Embedded to Cloud.</i>
 </p>
 
+<h2 align="left"> My Background ☕️ </h2>
 
+- 🌍 **Global-Class Engineer**: Trusted by companies like Texas Instruments and Hashdin for delivering exceptional engineering solutions.
+- 🚧  **Operations Mastery**: Optimized pipelines, implemented automation, introduced self-service tools for development teams, resolved production incidents, and continuously advanced Kubernetes expertise.
+- 🏆 **High-Performance Teams**: Collaborated with cross-functional and multicultural teams across Asia, Europe, and the Americas on critical, high-constraint projects as a Senior Engineer.
+- 🚀 **State-of-the-Art**: Served as the embedded expert for SOAFEE’s PoC, showcased by Deloitte at CES 2024.
+- 🤝 **Supplier Relations**: Negotiated and managed procurement with Asian hardware suppliers, ensuring cost-effective solutions during the global electronics shortages caused by COVID.
+- 📈 **Business Aligned**: Combined technical expertise with cost management, time-to-market strategies, and a relentless commitment to delivering value.
+- 📅 **Product Development Management**: Successfully coordinated partners and freelancers across up to 12-hour time zones to deliver IoT products from concept to market as a tech manager in a startup.
+ 
 <h2 align="left">⚙️ DevOps, Cloud & Platforms </h2>
 <p align="left">
   <b>Cloud Providers</b>
