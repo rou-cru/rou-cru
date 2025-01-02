@@ -53,17 +53,17 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
   <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-    <img src="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/_static/espressif-logo.svg" alt="Espressif" width="80" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="Espressif" width="80" height="40"/>
   </a>
   <a href="https://lvgl.io/" target="_blank" rel="noreferrer">
-    <img src="https://lvgl.io/assets/img/logo.svg" alt="LVGL" width="80" height="40"/>
+    <img src="https://lvgl.io/github-assets/logo-colored.png" alt="LVGL" width="80" height="40"/>
   </a>
   <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.yoctoproject.org/wp-content/uploads/2018/01/yocto-project-logo.png" alt="Yocto" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Yocto_Project_logo.svg" alt="Yocto" width="80" height="40"/>
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
@@ -82,3 +82,6 @@
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
     <img src="https://dev-docs.kicad.org/img/kicad_logo_small.png" alt="KiCAD" width="40" height="40"/>
   </a>
+
+ <!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
