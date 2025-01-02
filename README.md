@@ -1,4 +1,4 @@
-<h1 align="center">Embedded Linux | DevOps | Cloud & Edge Computing | Internal Development Platforms | MVPs Design & Develop | Development Project Management | Tech Consultancy</h1>
+<h1 align="center">Embedded | DevOps | Cloud & Edge Computing | Internal Development Platforms | Project Management | Consultancy</h1>
 <p align="center">
   <i>Passionate about building scalable platforms, automating deployments, and innovating systems from Embedded to Cloud.</i>
 </p>
@@ -92,5 +92,3 @@
     <img src="https://dev-docs.kicad.org/img/kicad_logo_small.png" alt="KiCAD" width="40" height="40"/>
   </a>
 </p>
-
-## 🌐 My Skills are what you looking for?
