@@ -1,11 +1,5 @@
 <h1 align="center">Embedded | DevOps | Cloud IT | Edge Computing | Internal Platforms | Automations | Project Management | Consultancy</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ---
 
 <h2 align="left"> My Background ☕️ </h2>
