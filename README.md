@@ -83,6 +83,8 @@
     <img src="https://dev-docs.kicad.org/img/kicad_logo_small.png" alt="KiCAD" width="40" height="40"/>
   </a>
 
+<h2 align="left"> 📚 Badges </h2>
+
  <!--START_SECTION:badges-->
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/206d9c60-d872-4c7b-bb94-65cb9c54a417 "AWS Cloud Quest: Cloud Practitioner")
 [![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/04909149-aae0-4b97-9da2-1998a6c9ae37 "Set Up an App Dev Environment on Google Cloud Skill Badge")
