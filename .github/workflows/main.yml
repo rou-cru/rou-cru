@@ -1,0 +1,10 @@
+name: Push Test
+on: [push,  workflow_dispatch]
+jobs:
+  badges:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get Credly Badges
+    - uses: michaelcontento/credly-import-action@v1
+      with:
+        name: alberto-roura
