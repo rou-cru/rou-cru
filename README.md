@@ -84,4 +84,9 @@
   </a>
 
  <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/206d9c60-d872-4c7b-bb94-65cb9c54a417 "AWS Cloud Quest: Cloud Practitioner")
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/04909149-aae0-4b97-9da2-1998a6c9ae37 "Set Up an App Dev Environment on Google Cloud Skill Badge")
+[![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/ec3dd512-8661-461a-9e8e-9998cc507d2c "AWS Knowledge: Amazon EKS")
+[![AWS Cloud Quest: Networking](https://images.credly.com/size/110x110/images/c483e5e6-580a-4ed8-b4b6-91219526a326/image.png)](http://www.credly.com/badges/492cb464-4e85-4699-8941-eb93cad842f8 "AWS Cloud Quest: Networking")
+[![Discovery: Platform Engineer](https://images.credly.com/size/110x110/images/06667f6f-68b0-4d6c-a0b9-a6199a1cf741/image.png)](http://www.credly.com/badges/fd819c59-e1ce-4e44-ba32-4e88b8022063 "Discovery: Platform Engineer")
 <!--END_SECTION:badges-->
