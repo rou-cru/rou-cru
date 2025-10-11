@@ -29,15 +29,15 @@
   <img src="https://img.shields.io/badge/Devbox-6366F1?style=flat-square&logo=nixos&logoColor=white">
 </div>
 
+<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rou-cru/rou-cru/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rou-cru/rou-cru/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/rou-cru/rou-cru/output/github-contribution-grid-snake.svg" style="max-width: 600px;">
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rou-cru/rou-cru/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rou-cru/rou-cru/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rou-cru/rou-cru/output/github-contribution-grid-snake.svg">
+</picture>
 
+<br>
 
 ---
 
