@@ -64,9 +64,3 @@
   <p><b>Status:</b> Functional & documented | <b>Next:</b> Backstage, Crossplane, OpenTelemetry</p>
   <p><a href="https://github.com/rou-cru/idp-blueprint#%EF%B8%8F-architecture">⭐ View the architecture</a></p>
 </div>
-
----
-
-<p align="center">
-  <sub>🏍️ Rider | ☸️ K8s Enthusiast | 👨‍👩‍👧 Family Man</sub>
-</p>
