@@ -45,7 +45,7 @@
 - **🏆 Deloitte @ CES 2024**: Contributed to SOAFEE for Software Defined Vehicles.
 
 ---
-## 🚧 Building in Public
+## 🚧 Building 🚧
 
 <div align="center" style="border: 3px solid #326CE5; border-radius: 15px; padding: 25px; max-width: 650px; background: linear-gradient(145deg, #ffffff, #e6e9ff); box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 20px 0;">
   <h3><a href="https://github.com/rou-cru/idp-blueprint">IDP Blueprint</a></h3>
