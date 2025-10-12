@@ -62,5 +62,5 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   </div>
   <p><b>Status:</b> Functional & documented | <b>Next:</b> Backstage, Crossplane, OpenTelemetry</p>
-  <p><a href="https://github.com/rou-cru/idp-blueprint#%EF%B8%8F-architecture">⭐ View the architecture</a></p>
+  <p><a href="https://github.com/rou-cru/idp-blueprint/blob/main/ARCHITECTURE_VISUAL.md">⭐ View the architecture</a></p>
 </div>
