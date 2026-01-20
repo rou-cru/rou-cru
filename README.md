@@ -59,7 +59,6 @@
     <img src="https://img.shields.io/badge/Kyverno-5B47C5?style=for-the-badge&logo=kyverno&logoColor=white">
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
     <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   </div>
   <p><b>Status:</b> Functional & documented | <b>Next:</b> Backstage, Crossplane, OpenTelemetry</p>
   <p><a href="https://github.com/rou-cru/idp-blueprint/blob/main/ARCHITECTURE_VISUAL.md">⭐ View the architecture</a></p>
